@@ -1,0 +1,3 @@
+*.pgz
+*.gz
+*/.ipynb_checkpoints/
