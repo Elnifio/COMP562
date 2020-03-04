@@ -1,3 +1,5 @@
 *.pgz
 *.gz
 */.ipynb_checkpoints/
+*.jpg
+._*
